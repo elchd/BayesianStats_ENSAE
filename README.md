@@ -1,4 +1,4 @@
-# Projet de Statistique Bayésienne - Eléonore Blanchard et Yannick Ly - MS DS 2019/2020.
+# Projet de Statistique Bayésienne 2019/2020.
 
 # Description
 * Dossier "Articles" contient tous les articles que nous avons utilisés comme support pour travailler sur ce projet. Il contient 3 articles : 
