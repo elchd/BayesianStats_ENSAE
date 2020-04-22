@@ -9,10 +9,10 @@
 * Fichier pdf correspond à notre résumé du projet.
 
 # Instructions pour lancer le code :
-* dézipper le dossier comme tel et ouvrir le script "Main.R"
-* avant de lancer le script, il est nécessaire d'installer Stan sous R (cela passe par l'installation d'un compilateur C++ et de Rtools) en utilisant le lien suivant : https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started?fbclid=IwAR3DvfIWhOUyU7hWUdulzcLNQRcMCwLm_o91tAzW1RlkNac78RrDYIrwRms et notamment de la commande suivante : pkgbuild::has_build_tools(debug = TRUE)
-* lancer le script "Main.R", cela peut prendre un certain temps d'exécution selon la puissance de la machine. 
-* les OUTPUTS sont : le vecteur de probabilités initiales, la matrice de transition et les probabilités conditionnelles.
+* Dézipper le dossier comme tel et ouvrir le script "Main.R"
+* Avant de lancer le script, il est nécessaire d'installer Stan sous R (cela passe par l'installation d'un compilateur C++ et de Rtools) en utilisant le lien suivant : https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started?fbclid=IwAR3DvfIWhOUyU7hWUdulzcLNQRcMCwLm_o91tAzW1RlkNac78RrDYIrwRms et notamment de la commande suivante : pkgbuild::has_build_tools(debug = TRUE)
+* Lancer le script "Main.R", cela peut prendre un certain temps d'exécution selon la puissance de la machine. 
+* Les OUTPUTS sont : le vecteur de probabilités initiales, la matrice de transition et les probabilités conditionnelles.
 
 # Auteurs
 * Eléonore Blanchard
