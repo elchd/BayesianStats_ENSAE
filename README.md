@@ -1,9 +1,7 @@
 # Projet de Statistique Bayésienne 2019/2020.
 
 # Description
-* Dossier "Articles" contient tous les articles que nous avons utilisés comme support pour travailler sur ce projet. Il contient 3 articles : 
-** deux articles traitant du "Regime Switching and Technical Trading with Dynamic Bayesian Networks in High-Frequency Stock Markets" dont celui écrit par Aditya Tayal en 2009 qui est le papier source, le papier écrit par Luis Daminiano, Brian Peterson et Michael Weylandt est une mise-à-jour du modèle de Tayal
-** ainsi que son implémentation. Le dernier article "A Tutorial on Hidden Markov Model using Stan" écrit par les 3 auteurs précédents décrit la manière d'implémenter un HMM en utilisant le logiciel Stan.
+* Dossier "Articles" contient tous les articles que nous avons utilisés comme support pour travailler sur ce projet. Il contient 3 articles : deux articles traitant du "Regime Switching and Technical Trading with Dynamic Bayesian Networks in High-Frequency Stock Markets" dont celui écrit par Aditya Tayal en 2009 qui est le papier source, le papier écrit par Luis Daminiano, Brian Peterson et Michael Weylandt est une mise-à-jour du modèle de Tayal ainsi que son implémentation. Le dernier article "A Tutorial on Hidden Markov Model using Stan" écrit par les 3 auteurs précédents décrit la manière d'implémenter un HMM en utilisant le logiciel Stan.
 * Dossier "Data" contient les données utilisées dans le cadre de ce projet, ce sont les données intraday de l'actif financier de la compagnie Goldcorp Inc. sur 5 jours ouvrés : du 01/05/2007 au 07/05/2007.
 * Fichier "Config.stan" correspond au script de configuration pour exécuter l'inférence statistique en utilisant le logiciel Stan sous R.
 * Fichier "Feature Extraction.R" correspond au script R afin de créer les features du modèle.
